@@ -16,11 +16,11 @@ The **Dr.Pet Veterinary Clinic Management System** is a desktop application desi
 - **MySQL (Optional)**: Relational database for storing clinic data, such as pet information, appointment schedules, and user roles.
   
 ## Usage
--**Login**: Admin, Doctor, Receptionist, and Pharmacist can log in with their credentials.
--**Admin**: Full access to all modules, including user management, pet records, and appointments.
--**Doctor**: Manage pet records, view appointments, and issue prescriptions.
--**Receptionist**: Schedule appointments and manage client inquiries.
--**Pharmacist**: View and issue prescriptions for pets.
+- **Login**: Admin, Doctor, Receptionist, and Pharmacist can log in with their credentials.
+- **Admin**: Full access to all modules, including user management, pet records, and appointments.
+- **Doctor**: Manage pet records, view appointments, and issue prescriptions.
+- **Receptionist**: Schedule appointments and manage client inquiries.
+- **Pharmacist**: View and issue prescriptions for pets.
 
 ## Project Structure
 ```bash
