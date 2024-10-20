@@ -14,6 +14,13 @@ The **Dr.Pet Veterinary Clinic Management System** is a desktop application desi
 - **NetBeans IDE 8.2**: Integrated development environment used for project development.
 - **Swing**: Java library for building graphical user interfaces (GUIs).
 - **MySQL (Optional)**: Relational database for storing clinic data, such as pet information, appointment schedules, and user roles.
+  
+## Usage
+-**Login**: Admin, Doctor, Receptionist, and Pharmacist can log in with their credentials.
+-**Admin**: Full access to all modules, including user management, pet records, and appointments.
+-**Doctor**: Manage pet records, view appointments, and issue prescriptions.
+-**Receptionist**: Schedule appointments and manage client inquiries.
+-**Pharmacist**: View and issue prescriptions for pets.
 
 ## Project Structure
 ```bash
@@ -28,11 +35,5 @@ Dr.Pet_Vet/
 │   │   ├── Pharmacist/
 │   │   ├── Receptionist/
 │   │   └── Splash1.java
-└── README.md
+└── README.md 
 
-Usage
-Login: Admin, Doctor, Receptionist, and Pharmacist can log in with their credentials.
-Admin: Full access to all modules, including user management, pet records, and appointments.
-Doctor: Manage pet records, view appointments, and issue prescriptions.
-Receptionist: Schedule appointments and manage client inquiries.
-Pharmacist: View and issue prescriptions for pets.
