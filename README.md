@@ -21,6 +21,18 @@ The **Dr.Pet Veterinary Clinic Management System** is a desktop application desi
 - **Doctor**: Manage pet records, view appointments, and issue prescriptions.
 - **Receptionist**: Schedule appointments and manage client inquiries.
 - **Pharmacist**: View and issue prescriptions for pets.
+  
+## Screenshots
+
+### Home Screen:
+![Home Screen](https://github.com/Waruni9810/Dr.Pet-Veterinary-Clinic-Management-System/blob/master/Home.png)
+
+### Login Screen:
+![Login Screen](https://github.com/Waruni9810/Dr.Pet-Veterinary-Clinic-Management-System/blob/master/login.png)
+
+### Dashboard:
+![Dashboard](https://github.com/Waruni9810/Dr.Pet-Veterinary-Clinic-Management-System/blob/master/Dashboard.png)
+
 
 ## Project Structure
 ```bash
